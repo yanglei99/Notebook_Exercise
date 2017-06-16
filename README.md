@@ -13,4 +13,5 @@ Reference [setting up Mesosphere DC/OS on Softlayer using Terraform](https://git
 ## Scenarios
 
 * [Geo-Spatial](geo-spatial/README.md)
+* [Machine Learning](ml/README.md)
 
